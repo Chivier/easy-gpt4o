@@ -44,4 +44,6 @@ Replace `input_video.mp4` with the path to your input video file, and `output_au
 
 ## Demo
 
-(to do)
+![demo_video](./demo/b.mp4)
+
+![demo_audio](./demo/b.mp3)
