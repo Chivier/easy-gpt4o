@@ -44,6 +44,13 @@ Replace `input_video.mp4` with the path to your input video file, and `output_au
 
 ## Demo
 
-![demo_video](./demo/b.mp4)
 
-![demo_audio](./demo/b.mp3)
+https://github.com/Chivier/easy-gpt4o/assets/41494877/2ae58fcc-8c04-4c19-9987-0f7944f28cc3
+
+
+
+https://github.com/Chivier/easy-gpt4o/assets/41494877/975696c2-e7fc-45f8-a582-36ae85465580
+
+
+
+
