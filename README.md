@@ -1,5 +1,7 @@
 # easy-gpt4o
 
+Blog Link: [Easy-GPT4o - reproduce GPT-4o in less than 200 lines](https://blog.chivier.site/2024-05-14/50d4d2d55c5e/)
+
 Easy-GPT4O opensource version: use OpenAI older API implements GPT-4o in less than 200 lines of code.
 
 This is a Python script that extracts audio from a video file, transcribes the audio using OpenAI Whisper API, generates image descriptions for key frames in the video using OpenAI GPT-4 Turbo API, and combines the results into a comprehensive response. The script also provides an option to convert the response to speech using the OpenAI TTS API.
@@ -23,7 +25,7 @@ This is a Python script that extracts audio from a video file, transcribes the a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/video-to-audio-transcription.git
+   git clone https://github.com/Chivier/easy-gpt4o
    ```
 
 2. Install the required Python packages:
@@ -37,7 +39,7 @@ This is a Python script that extracts audio from a video file, transcribes the a
 ## Usage
 
 ```bash
-python script.py input_video.mp4 output_audio.mp3
+python trace_on.py input_video.mp4 output_audio.mp3
 ```
 
 Replace `input_video.mp4` with the path to your input video file, and `output_audio.mp3` with the desired path to save the output audio file.
