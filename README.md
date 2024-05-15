@@ -29,7 +29,10 @@ Easy-GPT4O opensource version: use OpenAI older API implements GPT-4o in less th
 ## Usage
 
 ```bash
-python trace_on.py input_video.mp4 output_audio.mp3
+
+# Set your own openai api
+export OPENAI_API_KEY=xxxxxxx
+python main.py input_video.mp4 output_audio.mp3
 ```
 
 Replace `input_video.mp4` with the path to your input video file, and `output_audio.mp3` with the desired path to save the output audio file.
