@@ -4,6 +4,14 @@ Blog Link: [Easy-GPT4o - reproduce GPT-4o in less than 200 lines](https://blog.c
 
 Easy-GPT4O opensource version: use OpenAI older API implements GPT-4o in less than 200 lines of code.
 
+## Motivation
+
+Why I start this project? This is just a toy project and a simple demo. I want to prove some ideas in this project:
+
+- Developers can build their own GPT-4o using existing APIs. By leveraging available tools, developers can easily access the capabilities of advanced models.
+- End-to-end models provide low latency but limited customization. This project explores the trade-off between latency and customization, highlighting the benefits and limitations of each approach.
+- The combined power of multiple models can outperform a single multimodal model. This project demonstrates the effectiveness of a collaborative approach, leveraging the collective intelligence of various models to achieve superior results.
+
 ## Prerequisites
 
 - Python 3.6 or higher
@@ -40,6 +48,14 @@ Replace `input_video.mp4` with the path to your input video file, and `output_au
 ## How to make it happen
 
 <img width="1048" alt="image" src="https://github.com/Chivier/easy-gpt4o/assets/41494877/06fa49b0-f70f-48b8-9c84-51841882fe75">
+
+
+- Extracts audio from a video file
+- Transcribes the audio using OpenAI Whisper API
+- Generates image descriptions for key frames in the video using OpenAI GPT-4 Turbo API
+- Combines the audio transcription and image descriptions into a comprehensive response
+- Converts the response to speech using OpenAI TTS API
+
 
 
 ## Demo
