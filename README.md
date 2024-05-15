@@ -41,11 +41,31 @@ Replace `input_video.mp4` with the path to your input video file, and `output_au
 
 ## Demo
 
+### Demo 1
 
-https://github.com/Chivier/easy-gpt4o/assets/41494877/2ae58fcc-8c04-4c19-9987-0f7944f28cc3
 
 
-https://github.com/Chivier/easy-gpt4o/assets/41494877/975696c2-e7fc-45f8-a582-36ae85465580
+https://github.com/Chivier/easy-gpt4o/assets/41494877/b67b3264-d941-4cab-9f57-69f2b08959b3
+
+
+
+https://github.com/Chivier/easy-gpt4o/assets/41494877/abd88e4b-618d-469f-a10c-9e80f79f06ee
+
+
+
+https://github.com/Chivier/easy-gpt4o/assets/41494877/12e3ef65-99ed-4c0b-a935-1b3ebffb3984
+
+
+
+### Demo 2
+
+
+
+https://github.com/Chivier/easy-gpt4o/assets/41494877/4d004d42-473b-4450-8737-20cefdf967a1
+
+
+https://github.com/Chivier/easy-gpt4o/assets/41494877/7b026c69-d6ec-4545-b9cd-aee73befd647
+
 
 
 
