@@ -1,6 +1,6 @@
 # easy-gpt4o
 
-Blog Link: [Easy-GPT4o - reproduce GPT-4o in less than 200 lines](https://blog.chivier.site/2024-05-14/50d4d2d55c5e/)
+Blog Link: [Easy-GPT4o - reproduce GPT-4o in less than 200 lines](https://blog.chivier.site/2024-05-14/2024/Easy-GPT4o---reproduce-GPT-4o-in-less-than-200-lines-of-code/)
 
 Easy-GPT4O opensource version: use OpenAI older API implements GPT-4o in less than 200 lines of code.
 
